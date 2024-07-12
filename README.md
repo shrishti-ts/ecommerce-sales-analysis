@@ -44,9 +44,6 @@ To get started with this project, follow these steps:
 2. **Install Power BI Desktop**:
    Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) if you haven't already.
 
-3. **Open the Power BI file**:
-   Open the `sPBI_prj1.pbix` file in Power BI Desktop.
-
 ## Usage
 
 1. **Load Data**:
